@@ -1,0 +1,5 @@
+mi_env/bin/*
+mi_env/lib/*
+mi_env/src/__pycache__/*
+*.pyc
+__picache__
